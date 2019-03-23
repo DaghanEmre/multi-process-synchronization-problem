@@ -1,0 +1,23 @@
+[b21228051@rdev Kosut_1st_Project]$ gcc -std=c99 -Wall -Wextra -o section_a_main section_a_main.c -lrt -lpthread
+[b21228051@rdev Kosut_1st_Project]$ ./section_a_main 10
+
+Producing random number: 1804289383 ... nextIn : 1
+Producing random number: 846930886 ... nextIn : 2
+        Consuming random number: 1804289383 ... nextOut: 1
+        Consuming random number: 846930886 ... nextOut: 2
+Producing random number: 1681692777 ... nextIn : 3
+Producing random number: 1714636915 ... nextIn : 4
+        Consuming random number: 1681692777 ... nextOut: 3
+        Consuming random number: 1714636915 ... nextOut: 4
+Producing random number: 1957747793 ... nextIn : 5
+Producing random number: 424238335 ... nextIn : 6
+        Consuming random number: 1957747793 ... nextOut: 5
+        Consuming random number: 424238335 ... nextOut: 6
+Producing random number: 719885386 ... nextIn : 7
+Producing random number: 1649760492 ... nextIn : 8
+        Consuming random number: 719885386 ... nextOut: 7
+        Consuming random number: 1649760492 ... nextOut: 8
+Producing random number: 596516649 ... nextIn : 9
+        Consuming random number: 596516649 ... nextOut: 9
+
+		

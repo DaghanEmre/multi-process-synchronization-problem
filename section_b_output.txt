@@ -1,0 +1,15 @@
+[b21228051@rdev Kosut_1st_Project]$ ./section_b_main 6 5
+Producing random number: 1804289383 ... nextIn : 1
+Producing random number: 846930886 ... nextIn : 2
+        Consuming random number: 1804289383 ... nextOut: 1
+        Consuming random number: 846930886 ... nextOut: 2
+Producing random number: 1681692777 ... nextIn : 3
+Producing random number: 1714636915 ... nextIn : 4
+        Consuming random number: 1681692777 ... nextOut: 3
+        Consuming random number: 1714636915 ... nextOut: 4
+Producing random number: 1957747793 ... nextIn : 5
+        Consuming random number: 1957747793 ... nextOut: 5
+
+		
+		
+	Then the program was just stopping, and waiting without termination.

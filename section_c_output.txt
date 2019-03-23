@@ -1,0 +1,27 @@
+[b21228051@rdev Kosut_1st_Project]$ ./section_c_main 5 3 5
+Producing random number: 1804289383 ... nextIn : 1
+Producing random number: 1714636915 ... nextIn : 2
+        Consuming random number: 1804289383 ... nextOut: 1
+        Consuming random number: 1714636915 ... nextOut: 2
+Producing random number: 1957747793 ... nextIn : 3
+Producing random number: 424238335 ... nextIn : 4
+Producing random number: 846930886 ... nextIn : 0
+        Consuming random number: 1957747793 ... nextOut: 3
+Producing random number: 1681692777 ... nextIn : 1
+Producing random number: 1649760492 ... nextIn : 2
+        Consuming random number: 424238335 ... nextOut: 4
+        Consuming random number: 846930886 ... nextOut: 0
+        Consuming random number: 1681692777 ... nextOut: 1
+        Consuming random number: 1649760492 ... nextOut: 2
+Producing random number: 596516649 ... nextIn : 3
+Producing random number: 719885386 ... nextIn : 4
+Producing random number: 1025202362 ... nextIn : 0
+Producing random number: 1189641421 ... nextIn : 1
+        Consuming random number: 596516649 ... nextOut: 3
+        Consuming random number: 719885386 ... nextOut: 4
+        Consuming random number: 1025202362 ... nextOut: 0
+        Consuming random number: 1189641421 ... nextOut: 1
+Producing random number: 1350490027 ... nextIn : 2
+        Consuming random number: 1350490027 ... nextOut: 2
+
+ ERROR joining thread
